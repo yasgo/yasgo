@@ -1,4 +1,3 @@
 ### Hi there 👋
 
-## Yasin Burak Kalkan
-
+<strong>Yasin Burak Kalkan</strong>
