@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-***Yasin Burak Kalkan***
+<sub style="font-size: 10px">Yasin Burak Kalkan</sub>
