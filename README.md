@@ -3,3 +3,6 @@
 <p>Someone who thinks that being an <strong>expert</strong> on a subject is better than having an opinion on everything. Someone who thinks that if quality jobs are desired, it is necessary to work with <strong>qualified</strong> people.</p>
 <p>It's me.</p>
 <p>If you want quality projects, <a href="mailto:yasinburakkalkan@gmail.com">contact me</a>.</p>
+<p>
+  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js" />
+</p>
