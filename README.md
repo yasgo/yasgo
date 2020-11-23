@@ -22,6 +22,9 @@
     <a href="https://medium.com/@yasgo">
         <img src="https://img.shields.io/badge/medium-000000?logo=medium&style=flat&logoColor=white" alt="Medium" />
     </a>
+    <a href="https://codepen.io/yasgo">
+        <img src="https://img.shields.io/badge/codepen-1f2025?logo=codepen&style=flat&logoColor=white" alt="Codepen" />
+    </a>
 </p>
 
 <p>🚀 skills</p>
