@@ -5,7 +5,7 @@
 <p>It's me.</p>
 <p>If you want quality projects, <a href="mailto:yasinburakkalkan@gmail.com">contact me</a>.</p>
 
-<p>💻 development</p>
+<p><img src="https://img.shields.io/badge/development-black?style=flat" alt="Development" /></p>
 <p>
     <a href="https://www.npmjs.com/~yasgo" target="_blank">
         <img src="https://img.shields.io/badge/npm-CB0000?logo=npm&style=flat" alt="NPM" />
@@ -27,7 +27,17 @@
     </a>
 </p>
 
-<p>🚀 skills</p>
+<p><img src="https://img.shields.io/badge/design-black?style=flat" alt="Design" /></p>
+<p>
+    <a href="https://www.behance.net/yasgo" target="_blank">
+        <img src="https://img.shields.io/badge/behance-0357ff?logo=behance&style=flat" alt="Behance" />
+    </a>
+    <a href="https://dribbble.com/yasgo">
+        <img src="https://img.shields.io/badge/dribbble-ea4c89?logo=dribbble&style=flat&logoColor=white" alt="Dribbble" />
+    </a>
+</p>
+
+<p><img src="https://img.shields.io/badge/skills-black?style=flat" alt="Skills" /></p>
 <p>
     <img src="http://img.shields.io/badge/react-20232a?logo=react&style=flat&logoColor=61dafb" alt="React" />
     <img src="http://img.shields.io/badge/react%20native-20232a?logo=react&style=flat&logoColor=61dafb" alt="React Native" />
@@ -40,7 +50,7 @@
     <img src="http://img.shields.io/badge/firebase-ee7f0a?logo=firebase&style=flat&logoColor=white" alt="Firebase">
 </p>
 
-<p>🔗 social links</p>
+<p><img src="https://img.shields.io/badge/social%20skills-black?style=flat" alt="Skills" /></p>
 <p>
     <a href="https://www.linkedin.com/in/yasinburakkalkan/">
         <img src="https://img.shields.io/badge/linkedin-0377b5?logo=linkedin&style=flat" alt="Linkedin" />
