@@ -5,6 +5,8 @@
 <p>It's me.</p>
 <p>If you want quality projects, <a href="mailto:yasinburakkalkan@gmail.com">contact me</a>.</p>
 
+<p>&nbsp;</p>
+
 <p><img src="https://img.shields.io/badge/development-black?style=flat" alt="Development" /></p>
 <p>
     <a href="https://www.npmjs.com/~yasgo" target="_blank">
@@ -27,6 +29,8 @@
     </a>
 </p>
 
+<p>&nbsp;</p>
+
 <p><img src="https://img.shields.io/badge/design-black?style=flat" alt="Design" /></p>
 <p>
     <a href="https://www.behance.net/yasgo" target="_blank">
@@ -36,6 +40,8 @@
         <img src="https://img.shields.io/badge/dribbble-ea4c89?logo=dribbble&style=flat&logoColor=white" alt="Dribbble" />
     </a>
 </p>
+
+<p>&nbsp;</p>
 
 <p><img src="https://img.shields.io/badge/skills-black?style=flat" alt="Skills" /></p>
 <p>
@@ -49,6 +55,8 @@
     <img src="http://img.shields.io/badge/wordpress-135e96?logo=wordpress&style=flat&logoColor=white" alt="Wordpress">
     <img src="http://img.shields.io/badge/firebase-ee7f0a?logo=firebase&style=flat&logoColor=white" alt="Firebase">
 </p>
+
+<p>&nbsp;</p>
 
 <p><img src="https://img.shields.io/badge/social%20skills-black?style=flat" alt="Skills" /></p>
 <p>
