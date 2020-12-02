@@ -53,6 +53,10 @@
 
 <p>
     <img src="https://img.shields.io/badge/social%20skills-black?style=flat" alt="Skills" />
+
+    <a href="https://soundcloud.com/yasgoo">
+        <img src="https://img.shields.io/badge/soundcloud-f50?logo=soundcloud&style=flat&logoColor=white" alt="SoundCloud" />
+    </a>
     <a href="https://www.linkedin.com/in/yasinburakkalkan/">
         <img src="https://img.shields.io/badge/linkedin-0377b5?logo=linkedin&style=flat" alt="Linkedin" />
     </a>
