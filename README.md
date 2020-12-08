@@ -20,6 +20,9 @@
     <a href="https://stackoverflow.com/users/6172769/yasgo">
         <img src="https://img.shields.io/badge/stackoverflow-f48024?logo=stackoverflow&style=flat&logoColor=white" alt="Stack Overflow" />
     </a>
+    <a href="https://stackshare.io/yasgo">
+        <img src="https://img.shields.io/badge/stackshare-0690FA?logo=stackshare&style=flat&logoColor=white" alt="StackShare" />
+    </a>
     <a href="https://medium.com/@yasgo">
         <img src="https://img.shields.io/badge/medium-000000?logo=medium&style=flat&logoColor=white" alt="Medium" />
     </a>
