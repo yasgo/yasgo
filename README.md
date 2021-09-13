@@ -1,5 +1,5 @@
 <img width="150" src="https://octodex.github.com/images/boxertocat_octodex.jpg" alt="Boxer Octocat" />
-<p>Yasin Burak Kalkan | <strong>Front-End Developer at Medyasoft. from Turkey.</strong></p>
+<p>Yasin Burak Kalkan | <strong>Sr. Front-End Developer at Formalis. from Turkey.</strong></p>
 <p>I'm doing my work on <img src="https://img.shields.io/badge/Apple%20iMac%2027''-333333?logo=apple&style=flat&logoColor=white" alt="Apple iMac 27">. I am writing my codes on <img src="https://img.shields.io/badge/visual%20studio%20code-005ba4?logo=visual-studio-code&style=flat&logoColor=white" alt="Visual Studio Code">.</p>
 <p>Someone who tries to do <strong>quality work</strong>, not fast jobs, and thinks that quality is hidden in <strong>small details</strong>, not in design. Someone who tries to <strong>be different</strong> from them, not like everyone else.</p>
 <p>Someone who thinks that being an <strong>expert</strong> on a subject is better than having an opinion on everything. Someone who thinks that if quality jobs are desired, it is necessary to work with <strong>qualified</strong> people.</p>
