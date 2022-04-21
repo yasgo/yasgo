@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="42" height="12" viewBox="0 0 42 12">
-  <g id="Group_51" data-name="Group 51" transform="translate(-260 -1242)">
-    <path id="Path_244" data-name="Path 244" d="M0,0H42V12H0Z" transform="translate(260 1242)" fill="rgba(159,159,159,0)"/>
-    <path id="linkedin-in-brands" d="M2.686,12.01H.2V4H2.686Zm-1.245-9.1A1.448,1.448,0,1,1,2.882,1.451,1.453,1.453,0,0,1,1.441,2.905ZM12,12.01H9.515V8.11c0-.929-.019-2.121-1.294-2.121C6.928,5.988,6.73,7,6.73,8.043V12.01H4.245V4H6.631V5.091h.035A2.614,2.614,0,0,1,9.019,3.8C11.537,3.8,12,5.455,12,7.609v4.4Z" transform="translate(260 1241.99)" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="14" viewBox="0 0 42 14">
+  <g id="Group_2" data-name="Group 2" transform="translate(-469 -664)">
+    <path id="Path_1" data-name="Path 1" d="M0,0H42V14H0Z" transform="translate(469 664)" fill="rgba(232,0,0,0)"/>
+    <path id="linkedin-in-brands" d="M2.686,12.01H.2V4H2.686Zm-1.245-9.1A1.448,1.448,0,1,1,2.882,1.451,1.453,1.453,0,0,1,1.441,2.905ZM12,12.01H9.515V8.11c0-.929-.019-2.121-1.294-2.121C6.928,5.988,6.73,7,6.73,8.043V12.01H4.245V4H6.631V5.091h.035A2.614,2.614,0,0,1,9.019,3.8C11.537,3.8,12,5.455,12,7.609v4.4Z" transform="translate(469 664.99)" fill="#fff"/>
   </g>
 </svg>
