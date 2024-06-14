@@ -1,4 +1,4 @@
-<h2>Hello, I'm Yasin.</h2>
+## Hello, I'm Yasin.
 
 [![Medium](https://img.shields.io/badge/medium-000000?logo=medium&style=flat&logoColor=white)](https://medium.com/@yasgo)
 [![Codepen](https://img.shields.io/badge/codepen-1f2025?logo=codepen&style=flat&logoColor=white)](https://codepen.io/yasgo)
@@ -8,7 +8,7 @@
 I am a software developer experienced in creating user-centric, modern web applications using JavaScript and PHP. My interests lie in web and desktop applications. I keep up with the latest technological developments and strive to contribute to the open-source world. Feel free to contact me about anything.
 
 
-## 🛠️ Skills
+### 🛠️ Skills
 
 -  **Language:**  JavaScript, PHP
 -  **JavaScript:**  Next.js, Node.js, Electron.js, React Native
@@ -16,18 +16,36 @@ I am a software developer experienced in creating user-centric, modern web appli
 -  **DevOps:**  Docker, Jenkins
 -  **Test:**  Cypress, Storybook
 
-## 👨🏻‍💻 Companies 
+### 👨🏻‍💻 Companies 
 
-- Etstur (Sr. Front-End Developer) - 2022
-- Teknasyon (Sr. Front-End Developer) - 2021-2022
+- Etstur (Sr. Front-End Developer) - 2022 <br /> **Projects** <br /> https://www.etstur.com/ <br /> https://www.didimtur.com/ <br /><br />
+- Teknasyon (Sr. Front-End Developer) - 2021-2022 <br /> https://www.deepwall.com/
 - Medyasoft (Front-End Developer) - 2018-2021
 - Gri Creative (Front-End Developer) - 2017-2018
 
+### 💡 Open Source Projects
 
-## 💡 Open Source Projects
-
-#### 🦎 Free WebP Converter
-
-Free WebP Converter is an image file converter. Convert any image files to WEBP format in seconds.
-
-https://freewebpconverter.com/
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <b>🦎 Free WebP Converter</b>
+        <br />
+        <br />
+        Free WebP Converter is an image file converter. Convert any image files to WEBP format in seconds.
+        <br />
+        https://freewebpconverter.com/
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🚨 Clickbait Detect (Soon)</b>
+        <br />
+        <br />
+        Clickbait Detect is a Chrome extension that detects potential "clickbait" videos on YouTube.
+        <br />
+        https://clickbaitdetect.com/
+      </td>
+    </tr>
+  </tbody>
+</table>
