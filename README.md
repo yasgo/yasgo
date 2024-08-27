@@ -32,12 +32,12 @@ I am a software developer experienced in creating user-centric, modern web appli
     </tr>
     <tr>
       <td>
-        <b>🚨 Clickbait Detect (Soon)</b>
+        <b>👁️‍🗨️ Youtube Popularity Score | Chrome Extension</b>
         <br />
         <br />
-        Clickbait Detect is a Chrome extension that detects potential "clickbait" videos on YouTube.
+        The extension assigns a score between 1 and 10 to the recommended videos on your YouTube homepage based on their popularity, allowing you to quickly access higher-quality videos.
         <br />
-        https://clickbaitdetect.com/
+        https://chromewebstore.google.com/detail/youtube-popularity-score/epejdmigffebgafpjociinhoefdahgpb
       </td>
     </tr>
   </tbody>
