@@ -32,10 +32,10 @@ I am a software developer experienced in creating user-centric, modern web appli
     </tr>
     <tr>
       <td>
-        <b>👁️‍🗨️ Youtube Popularity Score | Chrome Extension</b>
+        <b>👁 Youtube Popularity Score | Chrome Extension</b>
         <br />
         <br />
-        The extension assigns a score between 1 and 10 to the recommended videos on your YouTube homepage based on their popularity, allowing you to quickly access higher-quality videos.
+        A plugin that rates the popularity of YouTube videos.
         <br />
         https://chromewebstore.google.com/detail/youtube-popularity-score/epejdmigffebgafpjociinhoefdahgpb
       </td>
