@@ -12,7 +12,7 @@ I am a software developer experienced in creating user-centric, modern web appli
 
 -  **Language:**  JavaScript, PHP
 -  **JavaScript:**  Next.js, Node.js, Electron.js, React Native
--  **Style:**  MUI, Ant Design, Bootstrap
+-  **Style:**  MUI, Ant Design, Tailwind CSS, Bootstrap
 -  **DevOps:**  Docker, Jenkins
 -  **Test:**  Cypress, Storybook, Jest
 
