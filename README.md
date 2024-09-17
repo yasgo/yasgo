@@ -40,5 +40,15 @@ I am a software developer experienced in creating user-centric, modern web appli
         https://chromewebstore.google.com/detail/youtube-popularity-score/epejdmigffebgafpjociinhoefdahgpb
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>📈 Github Visitor Stats</b>
+        <br />
+        <br />
+        Web tool that shows how many users visited your GitHub profile during the day.
+        <br />
+        Soon
+      </td>
+    </tr>
   </tbody>
 </table>
