@@ -52,3 +52,20 @@ I am a software developer experienced in creating user-centric, modern web appli
     </tr>
   </tbody>
 </table>
+
+### Startup Projects
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <b>👨🏻‍🍳 Bolmenu</b>
+        <br />
+        <br />
+        Bolmenu is an artificial intelligence-supported QR menu software.
+        <br />
+        https://bolmenu.com/
+      </td>
+    </tr>
+  </tbody>
+</table>
