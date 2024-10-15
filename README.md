@@ -69,3 +69,6 @@ I am a software developer experienced in creating user-centric, modern web appli
     </tr>
   </tbody>
 </table>
+
+### Daily Profile Visit
+![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/github-analytics/track.php?user=yasgo)
