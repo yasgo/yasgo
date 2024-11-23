@@ -47,7 +47,7 @@ I am a software developer experienced in creating user-centric, modern web appli
         <br />
         Web tool that shows how many users visited your GitHub profile during the day.
         <br />
-        Soon
+        https://githubvisitorstats.com/
       </td>
     </tr>
   </tbody>
