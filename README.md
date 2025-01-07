@@ -22,16 +22,6 @@ I am a software developer experienced in creating user-centric, modern web appli
   <tbody>
     <tr>
       <td>
-        <b>🦎 Free WebP Converter</b>
-        <br />
-        <br />
-        Free WebP Converter is an image file converter. Convert any image files to WEBP format in seconds.
-        <br />
-        https://freewebpconverter.com/
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>👁 Youtube Popularity Score | Chrome Extension</b>
         <br />
         <br />
